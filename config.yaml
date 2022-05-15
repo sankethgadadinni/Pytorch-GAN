@@ -1,0 +1,7 @@
+config:
+  batch_size: 64
+  num_workers: 4
+  latent_dim: 100
+  epochs: 20 
+  gpus: 1
+  lr: 0.001
